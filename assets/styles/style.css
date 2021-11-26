@@ -42,12 +42,6 @@ body {
     height: 100%;
 }
 
-.logo {
-    width: 192px;
-    height: 48px;
-    margin-bottom: 30px;
-}
-
 .slug {
     font-size: 24.1px;
     color: rgb(52, 81, 104);
@@ -104,6 +98,21 @@ li {
     color: rgb(88, 85, 86);
     line-height: 1.5;
     padding-bottom: 10px;
+}
+
+img, iframe{
+    width: 100%;
+    padding: 15px;
+}
+
+img .logo{
+    width: 100%;
+}
+
+img .logo {
+    width: 192px;
+    height: 48px;
+    margin-bottom: 30px;
 }
 
 footer {
