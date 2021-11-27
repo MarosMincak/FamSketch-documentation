@@ -6,7 +6,8 @@ body {
     color: rgb(0, 0, 0);
     font-weight: normal;
     font-style: normal;
-    text-decoration: none
+    text-decoration: none;
+    background-color: #eee;
 }
 
 .page {
@@ -16,6 +17,7 @@ body {
     border-style: outset;
     max-width: 100%;
     min-height: 350px;
+    background-color: white;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     display: -webkit-box;
