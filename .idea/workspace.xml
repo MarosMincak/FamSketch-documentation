@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8691cc55-6f46-4f18-92ec-d087053dff0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8691cc55-6f46-4f18-92ec-d087053dff0c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <workItem from="1637610561283" duration="821000" />
       <workItem from="1637615404676" duration="12337000" />
       <workItem from="1637692716358" duration="45925000" />
-      <workItem from="1638088734714" duration="5050000" />
+      <workItem from="1638088734714" duration="5370000" />
     </task>
     <servers />
   </component>
@@ -97,5 +95,9 @@
       <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="229" y="70" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1637653846831" />
+    <state x="-975" y="19" width="670" height="676" key="search.everywhere.popup" timestamp="1638094647258">
+      <screen x="-1280" y="-201" width="1280" height="999" />
+    </state>
+    <state x="-975" y="19" width="670" height="676" key="search.everywhere.popup/0.25.1440.818/-1280.-201.1280.999@-1280.-201.1280.999" timestamp="1638094647258" />
   </component>
 </project>
