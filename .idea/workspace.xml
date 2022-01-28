@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8691cc55-6f46-4f18-92ec-d087053dff0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/images_mail/FS-Promo-Mail-n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images_mail/FamSketch-popup.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <workItem from="1642667715858" duration="358000" />
       <workItem from="1642854599167" duration="108000" />
       <workItem from="1642855449284" duration="656000" />
-      <workItem from="1643357394584" duration="1681000" />
+      <workItem from="1643357394584" duration="2203000" />
     </task>
     <servers />
   </component>
